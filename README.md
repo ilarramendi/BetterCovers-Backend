@@ -1,0 +1,1 @@
+# Frontend for selecting BetterCovers settings
