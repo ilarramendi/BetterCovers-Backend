@@ -1,0 +1,3 @@
+[submodule "BetterCovers"]
+	path = BetterCovers
+	url = https://github.com/ilarramendi/BetterCovers

@@ -1,1 +1,1 @@
-# Frontend for selecting BetterCovers settings
+# Backend for running BetterCovers with custom settings
